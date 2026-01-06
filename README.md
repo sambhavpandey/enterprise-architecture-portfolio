@@ -49,6 +49,7 @@ enterprise-architecture-portfolio/
 ├── 04-analytics-and-decision-models/
 │   ├── powerbi-analytics-case-studies/
 │   ├── financial-modeling-excel/
+│   │   └── A multi-use-case Excel playbook for cloud financial and architecture decision modeling (NPV, sensitivity, utilization, risk analysis)
 │   └── README.md
 │
 ├── 05-leadership-and-professional-judgement/
