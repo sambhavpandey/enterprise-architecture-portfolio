@@ -39,6 +39,7 @@ enterprise-architecture-portfolio/
 ├── 02-enterprise-and-solution-architecture/
 │   ├── cloud-transformation-business-architecture/
 │   ├── platform-and-architecture-patterns/
+│   ├── togaf-enterprise-architecture-case-study/
 │   └── README.md
 │
 ├── 03-execution-and-delivery/
