@@ -1,9 +1,3 @@
-Here is a clean, portfolio-grade `README.md` you can paste directly:
-
----
-
-# TOGAF Enterprise Architecture Transformation Case Study
-
 ## Overview
 
 This repository contains a complete, end-to-end enterprise architecture case study built using the TOGAF Architecture Development Method (ADM).
@@ -117,3 +111,4 @@ Enterprise Architect and Cloud Strategy Leader
 
 GitHub: [https://github.com/sambhavpandey](https://github.com/sambhavpandey)
 Portfolio: [https://github.com/sambhavpandey/enterprise-architecture-portfolio](https://github.com/sambhavpandey/enterprise-architecture-portfolio)
+
